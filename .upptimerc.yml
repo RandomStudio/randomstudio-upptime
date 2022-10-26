@@ -9,6 +9,8 @@ sites:
     url: https://random.studio
   - name: Random Studio (http)
     url: http://random.studio
+  - name: Test bad site
+    url: http://random.studiof
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
