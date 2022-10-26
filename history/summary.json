@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1353,
-    "timeDay": 1353,
-    "timeWeek": 1353,
-    "timeMonth": 1353,
-    "timeYear": 1353,
+    "time": 1073,
+    "timeDay": 1073,
+    "timeWeek": 1073,
+    "timeMonth": 1073,
+    "timeYear": 1073,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 295,
-    "timeWeek": 295,
-    "timeMonth": 295,
-    "timeYear": 295,
+    "time": 263,
+    "timeDay": 263,
+    "timeWeek": 263,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 981,
-    "timeDay": 981,
-    "timeWeek": 981,
-    "timeMonth": 981,
-    "timeYear": 981,
+    "time": 872,
+    "timeDay": 872,
+    "timeWeek": 872,
+    "timeMonth": 872,
+    "timeYear": 872,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test bad site",
+    "url": "http://random.studiof",
+    "icon": "https://icons.duckduckgo.com/ip3/random.studiof.ico",
+    "slug": "test-bad-site",
+    "status": "down",
+    "uptime": "11.27%",
+    "uptimeDay": "11.27%",
+    "uptimeWeek": "11.27%",
+    "uptimeMonth": "11.27%",
+    "uptimeYear": "11.27%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-10-26": 0
+    }
   }
 ]
